@@ -11,7 +11,10 @@ From plugins used:
 
 On the site created forms to receive data from ajax forms, with further validation on the server and display in the admin panel in a specially created custom record - Application.
 
+#data-base file
+sql file attached
 
+# addons for composer.json
 Composer.json
 "require": {
         "johnpbloch/wordpress": "^6.3",
